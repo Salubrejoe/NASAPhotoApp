@@ -1,6 +1,8 @@
 # NASAPhotoApp
 NASA Picture of the day app
 
+![](https://github.com/Salubrejoe/NASAPhotoApp/blob/main/First.GIF)
+
 This simple app is an exercise on the integration of an API - api.nasa.gov
 The app is built programmatically, includes some UI refinement over and above what was demanded from the exercise.
 
